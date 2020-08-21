@@ -5,8 +5,8 @@ def count_strings(array)
     if element.is_a?(String)
       count += 1
     end
-    count
   end
+  count
 end
 
 def count_empty_strings(array)
